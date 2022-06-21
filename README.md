@@ -1,3 +1,15 @@
+# PORTIFOLIO
+
+Hello there 👋 I'm Aline Rivieri
+
+👩‍💻 I have a degree in Management Processes from Estácio de Sá, I worked for more than 10 years in the administrative area, being my last experience in purchasing, where I was able to develop interpersonal communication, empathy and conflict resolution.
+
+❤ I've had a passion since childhood for everything related to technology and now as an adult, I rediscovered myself in this programming path.
+
+📚 In the search for this knowledge, I found several courses, where I could learn a lot. In addition to technical learning, I learned to learn, maintaining dedication and discipline.
+
+🌱 Through this experience, in the training as a Web Developer, I was able to gain knowledge in HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
