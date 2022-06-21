@@ -26,7 +26,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Barber Shop
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/barbershop" target='blank'>
@@ -43,7 +43,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Beaches Travel
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/beachestravel" target='blank'>
@@ -60,7 +60,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Data Finance
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/datafinance" target='blank'>
@@ -77,7 +77,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Dog Walker
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/dog_walker" target='blank'>
@@ -94,7 +94,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Secured
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/secured" target='blank'>
@@ -112,7 +112,7 @@ const Work = () => {
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           ReactJS Application
+                           Galaxy Travel
                        </span>
                        <div className='pt-8 text-center'>
                            <a href="https://github.com/alinerivieri/spacetravel" target='blank'>
