@@ -1,4 +1,5 @@
 import React from 'react'
+import photo from '../assets/photo.png'
 
 const About = () => {
   return (
@@ -14,12 +15,26 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
+          <img className='w-[300px] mx-auto' src={photo} alt="" />
             <p>Hi, I'm Aline, nice to meet you. Please take a look around.</p>
           </div>
           <div>
             <p>
-              I am in love with building great software that improves the lives of people around me. I specialize in creating software for customers that vary from individuals and small companies to large corporate companies.
+            I have a degree in Management Processes from Estácio de Sá, I worked for more than 10 years in the administrative area, being my last experience in purchasing, where I was able to develop interpersonal communication, empathy and conflict resolution.
             </p>
+            <br/>
+            <p>
+            I've had a passion since childhood for everything related to technology and now as an adult, I rediscovered myself in this programming path.
+            </p>
+            <br/>
+            <p>
+            In the search for this knowledge, I found several courses, where I could learn a lot. In addition to technical learning, I learned to learn, maintaining dedication and discipline.
+            </p>
+            <br/>
+            <p>
+            Through this experience, in the training as a Web Developer, I was able to gain knowledge in HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS etc.
+            </p>
+            <br/>
           </div>
         </div>
       </div>
