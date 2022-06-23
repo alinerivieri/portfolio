@@ -15,10 +15,10 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-          <img className='w-[300px] mx-auto' src={photo} alt="" />
-            <p>Hi, I'm Aline, nice to meet you. Please take a look around.</p>
+          <img className='lg:w-[300px] w-[200px] mx-auto mb-3' src={photo} alt="" />
+            <p className='md:text-3xl md:text-left text-2xl text-center'>Hi, I'm Aline, nice to meet you. Please take a look around.</p>
           </div>
-          <div>
+          <div className='md:text-left text-center'>
             <p>
             I have a degree in Management Processes from Estácio de Sá, I worked for more than 10 years in the administrative area, being my last experience in purchasing, where I was able to develop interpersonal communication, empathy and conflict resolution.
             </p>
