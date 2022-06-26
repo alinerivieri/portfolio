@@ -24,6 +24,10 @@ const About = () => {
             </p>
             <br/>
             <p>
+            I am currently in the second year of the Systems Analysis and Development course.
+            </p>
+            <br/>
+            <p>
             I've had a passion since childhood for everything related to technology and now as an adult, I rediscovered myself in this programming path.
             </p>
             <br/>
