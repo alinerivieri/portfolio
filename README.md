@@ -1,4 +1,4 @@
-# PORTIFOLIO
+# PORTFOLIO
 
 Hello there 👋 I'm Aline Rivieri
 
