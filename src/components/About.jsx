@@ -32,11 +32,7 @@ const About = () => {
             </p>
             <br/>
             <p>
-            In the search for this knowledge, I found several courses, where I could learn a lot. In addition to technical learning, I learned to learn, maintaining dedication and discipline.
-            </p>
-            <br/>
-            <p>
-            Through this experience, in the training as a Web Developer, I was able to gain knowledge in HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS etc.
+            I have knowledge in HTML, CSS, JavaScript, ReactJS, Tailwind, Bootstrap, SASS and now learning more about Firebase, NodeJS etc.
             </p>
             <br/>
           </div>
