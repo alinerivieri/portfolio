@@ -1,7 +1,7 @@
 import React from 'react'
 import barber from '../assets/barbershop.PNG';
 import beaches from '../assets/beaches.PNG';
-import datafinance from '../assets/datafinance.PNG';
+import licoin from '../assets/licoin.PNG';
 import dogwalker from '../assets/dogwalker.PNG';
 import secured from '../assets/secured.PNG';
 import travel from '../assets/travel.PNG';
@@ -55,18 +55,18 @@ const Work = () => {
                        </div>
                    </div>
                </div>
-               <div style={{backgroundImage: `url(${datafinance})`}} 
+               <div style={{backgroundImage: `url(${licoin})`}} 
                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                    {/*Hover Effects*/}
                    <div className='opacity-0 group-hover:opacity-100'>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                           Data Finance
+                           LiCoin - Crypto
                        </span>
                        <div className='pt-8 text-center'>
-                           <a href="https://github.com/alinerivieri/datafinance" target='blank'>
+                           <a href="https://github.com/alinerivieri/licoin-finance" target='blank'>
                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                            </a>
-                           <a href="http://datafinance.vercel.app/" target='blank'>
+                           <a href="https://licoin-finance.vercel.app/" target='blank'>
                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                            </a>
                        </div>
